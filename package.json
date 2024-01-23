@@ -1,0 +1,11 @@
+{
+  "name": "redux_example",
+  "version": "1.0.0",
+  "description": "Small example code to demonstrate Redux core concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "morfre",
+  "license": "ISC"
+}
